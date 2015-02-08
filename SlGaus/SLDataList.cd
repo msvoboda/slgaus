@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Font Name="Tahoma" Size="8.25" />
+  <Comment CommentText="Data classes">
+    <Position X="0.5" Y="0.5" Height="0.306" Width="1.462" />
+  </Comment>
+  <Comment CommentText="Tools  classes">
+    <Position X="8.038" Y="0.5" Height="0.322" Width="1.906" />
+  </Comment>
+  <Comment CommentText="SLGaus component">
+    <Position X="0.5" Y="6.643" Height="0.306" Width="1.7" />
+  </Comment>
+  <Class Name="SLMath.SLValueXY">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SLDataList.cs</FileName>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SLMath.SLValueList">
+    <Position X="3" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>SLDataList.cs</FileName>
+      <HashCode>QAIAAEBgACBAAEAEGCQABAAAAAQAACAABAAAAIgAQAQ=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="this[System.Int32]" />
+    </ShowAsAssociation>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="SLMath.SLValueList.PointStyles">
+        <TypeIdentifier>
+          <NewMemberFileName>SLDataList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SLMath.SLValueList.AproximationStyles">
+        <TypeIdentifier>
+          <NewMemberFileName>SLDataList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="SLMath.SLDataList">
+    <Position X="0.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>SLDataList.cs</FileName>
+      <HashCode>AAIACEAAAAAAAAAACAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="this[System.Int32]" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SLMath.SLBezier">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ComputeFce.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAABAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SLMath.SLCalculator">
+    <Position X="8" Y="1" Width="2" />
+    <TypeIdentifier>
+      <FileName>ComputeFce.cs</FileName>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAIAIAAAAAAAAAAAMAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SLMath.SLStatistic">
+    <Position X="8" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>ComputeFce.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlGaus.SLGaus">
+    <Position X="0.5" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>slgaus.cs</FileName>
+      <HashCode>MUCSFIAxACAAAUCSQBRYgIIxhBkAFikAKAAAAAAAIJA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="DataList" />
+    </ShowAsAssociation>
+  </Class>
+</ClassDiagram>

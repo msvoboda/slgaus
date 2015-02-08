@@ -1,0 +1,10 @@
+bin\Debug\SlGaus.dll
+bin\Debug\SlGaus.pdb
+bin\Debug\SLMathExpr.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SlGaus.AddValueList.resources
+obj\Debug\SlGaus.DataListDlg.resources
+obj\Debug\SlGaus.SLGaus.resources
+obj\Debug\SlGaus.csproj.GenerateResource.Cache
+obj\Debug\SlGaus.dll
+obj\Debug\SlGaus.pdb

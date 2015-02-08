@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SlGaus">
+</Property><Property Name="Solution File" Value="c:\Dokumenty\Visual Studio 2005\SLMatematika\SlGaus\SlGaus.sln">
+</Property><Property Name="Date" Value="2. června 2005">
+</Property><Property Name="Time" Value="18:08">
+</Property></Properties><Event ErrorLevel="0" Project="SlGaus" Source="SlGaus.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SlGaus" Source="SlGaus.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testgaus" Source="..\testgaus\testgaus.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="testgaus" Source="..\testgaus\testgaus.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SlGaus.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SlGaus.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SlGaus" Source="SlGaus.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="testgaus" Source="..\testgaus\testgaus.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
